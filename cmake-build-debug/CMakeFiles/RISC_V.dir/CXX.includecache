@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/11582/Desktop/CS/RISC-V/UNNAME.hpp
+bits/stdc++.h
+-
+
+/mnt/c/Users/11582/Desktop/CS/RISC-V/main.cpp
+UNNAME.hpp
+/mnt/c/Users/11582/Desktop/CS/RISC-V/UNNAME.hpp
+

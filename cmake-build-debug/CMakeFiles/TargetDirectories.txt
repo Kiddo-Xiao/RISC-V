@@ -1,0 +1,3 @@
+/mnt/c/Users/11582/Desktop/CS/RISC-V/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/11582/Desktop/CS/RISC-V/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/11582/Desktop/CS/RISC-V/cmake-build-debug/CMakeFiles/RISC_V.dir
