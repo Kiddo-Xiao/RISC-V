@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    freopen("test_in.txt", "r", stdin);
+//    freopen("test_in.txt", "r", stdin);
 //    freopen("out.txt", "w", stdout);
 
     READin();
